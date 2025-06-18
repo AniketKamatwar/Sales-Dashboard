@@ -14,17 +14,21 @@ Project Title : Sales Performance Analysis
 
 3. Dashboard was built using the following tools and technologies:
 
+
    •Microsoft Excel: For data cleaning, basic analysis, and pivot table generation.
+
    •Power BI: To create interactive dashboards and visualizations, including trend analysis, region-wise performance, and customer segmentation.
+
    •DAX (Data Analysis Expressions): For calculated measures like profit margins, revenue trends, and KPIs.
+
    •Power Query: For data transformation and integration from multiple sources.
 
-4. Data Source:
+5. Data Source:
 
    The dataset used for this project was sourced from Kaggle, a popular platform for open-source datasets and data science competitions. The data included information on sales transactions, products, customers,
    and regional performance.
 
-5. Futures & Highlighs
+6. Futures & Highlighs
 
 Business Problem :
 
