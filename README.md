@@ -20,18 +20,18 @@ The dataset used for this project was sourced from Kaggle, a popular platform fo
 
 4. Futures & Highlighs
 
-   Business Problem :
+Business Problem :
    The company lacks visibility into sales trends, customer behavior, and product profitability. Without understanding seasonal patterns, top-selling products, and regional performance, marketing, inventory, and     pricing decisions remain inefficient. There’s also a need to segment customers and identify high-profit areas to drive targeted growth and improve overall business performance.
 
-   Key Questions :
+Key Questions :
 
-   •Analyze the overall sales revenue over time to identify trends and seasonal patterns.
-   •Identify the top-selling products and product categories to focus marketing and inventory efforts.
-   •Analyze sales performance across different regions to identify high-potential markets and areas for improvement.
-   •Segment customers based on their purchasing behavior and analyze their contribution to sales revenue.
-   •Calculate profit margins for products and analyze profitability by product category and region.
+•Analyze the overall sales revenue over time to identify trends and seasonal patterns.
+•Identify the top-selling products and product categories to focus marketing and inventory efforts.
+•Analyze sales performance across different regions to identify high-potential markets and areas for improvement.
+•Segment customers based on their purchasing behavior and analyze their contribution to sales revenue.
+•Calculate profit margins for products and analyze profitability by product category and region.
 
-   Key Insights & Suggestions :
+Key Insights & Suggestions :
 
    Ⅰ.Seasonality:
    Lower sales early in the year; steady growth with year-end spikes.
@@ -42,5 +42,5 @@ The dataset used for this project was sourced from Kaggle, a popular platform fo
    Ⅲ.Regional Hotspots:  
    Prioritize California, Texas, and East Coast for expansion and market penetration.
 
-#Note: A detailed Insights & Recommendations report based on this analysis has been uploaded along with the dashboard for further reference.
+#Note: A detailed Insights & Suggestions report based on this analysis has been uploaded along with the dashboard for further reference.
 
