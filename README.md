@@ -16,7 +16,6 @@ The project also included regional performance analysis to highlight high-potent
 •Power Query: For data transformation and integration from multiple sources.
 
 3.Data Source:
-
 The dataset used for this project was sourced from Kaggle, a popular platform for open-source datasets and data science competitions. The data included information on sales transactions, products, customers, and regional performance.
 
 4. Futures & Highlighs
@@ -34,17 +33,14 @@ The dataset used for this project was sourced from Kaggle, a popular platform fo
 
    Key Insights & Suggestions :
 
- Ⅰ.Seasonality:
+   Ⅰ.Seasonality:
+   Lower sales early in the year; steady growth with year-end spikes.
 
-  Lower sales early in the year; steady growth with year-end spikes.
+   Ⅱ.Top Products & Categories:
+   Focus on Canon imageCLASS 2200 & Technology category for marketing/inventory optimization.
 
- Ⅱ.Top Products & Categories:
+   Ⅲ.Regional Hotspots:  
+   Prioritize California, Texas, and East Coast for expansion and market penetration.
 
-  Focus on Canon imageCLASS 2200 & Technology category for marketing/inventory optimization.
-
- Ⅲ.Regional Hotspots:
-        
-  Prioritize California, Texas, and East Coast for expansion and market penetration.
-
-  #Note: A detailed Insights & Recommendations report based on this analysis has been uploaded along with the dashboard for further reference.
+#Note: A detailed Insights & Recommendations report based on this analysis has been uploaded along with the dashboard for further reference.
 
