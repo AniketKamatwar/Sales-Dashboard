@@ -54,6 +54,6 @@ Key Insights & Suggestions :
    Prioritize California, Texas, and East Coast for expansion and market penetration.
 
 #Note: A detailed Insights & Suggestions report based on this analysis has been uploaded along with the dashboard for further reference.
-[Dashboard preview].(https://github.com/AniketKamatwar/Sales-Dashboard/blob/main/Sales%20Performance%20Dashboard(Page1).png)
+![Alt text].(https://github.com/AniketKamatwar/Sales-Dashboard/blob/main/Sales%20Performance%20Dashboard(Page1).png)
 
 
