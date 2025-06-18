@@ -3,7 +3,9 @@
 
 Project Title : Sales Performance Analysis
 
-1.Project Description : This project involved an in-depth analysis of sales data to uncover key business insights and support data-driven decision-making. The objective was to evaluate overall sales revenue trends over time to identify seasonal patterns and growth opportunities. A product-level analysis was conducted to determine top-selling items and high-performing product categories, enabling targeted marketing and optimized inventory planning.
+1.Project Description : 
+
+This project involved an in-depth analysis of sales data to uncover key business insights and support data-driven decision-making. The objective was to evaluate overall sales revenue trends over time to identify seasonal patterns and growth opportunities. A product-level analysis was conducted to determine top-selling items and high-performing product categories, enabling targeted marketing and optimized inventory planning.
 The project also included regional performance analysis to highlight high-potential markets and regions requiring improvement. Customer segmentation was carried out based on purchasing behavior to understand different customer profiles and their contribution to total revenue. Additionally, profit margins were calculated for each product, and profitability was analyzed across categories and regions to identify the most and least profitable areas of the business.
 
 2.Dashboard was built using the following tools and technologies:
@@ -14,6 +16,7 @@ The project also included regional performance analysis to highlight high-potent
 •Power Query: For data transformation and integration from multiple sources.
 
 3.Data Source:
+
 The dataset used for this project was sourced from Kaggle, a popular platform for open-source datasets and data science competitions. The data included information on sales transactions, products, customers, and regional performance.
 
 4. Futures & Highlighs
