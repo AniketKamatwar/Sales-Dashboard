@@ -27,7 +27,8 @@ Project Title : Sales Performance Analysis
 5. Futures & Highlighs
 
 Business Problem :
-   The company lacks visibility into sales trends, customer behavior, and product profitability. Without understanding seasonal patterns, top-selling products, and regional performance, marketing, inventory, and     pricing decisions remain inefficient. There’s also a need to segment customers and identify high-profit areas to drive targeted growth and improve overall business performance.
+
+The company lacks visibility into sales trends, customer behavior, and product profitability. Without understanding seasonal patterns, top-selling products, and regional performance, marketing, inventory, and     pricing decisions remain inefficient. There’s also a need to segment customers and identify high-profit areas to drive targeted growth and improve overall business performance.
 
 Key Questions :
 
