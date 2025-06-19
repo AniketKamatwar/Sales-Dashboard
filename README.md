@@ -28,7 +28,7 @@ Project Title : Sales Performance Analysis
    The dataset used for this project was sourced from Kaggle, a popular platform for open-source datasets and data science competitions. The data included information on sales transactions, products, customers,
    and regional performance.
 
-6. Futures & Highlighs
+6. Futures & Highlights
 
 Business Problem :
 
